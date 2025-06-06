@@ -1,1 +1,4 @@
-
+172.18.9.107 master-1  # change the IP of your Master-1 Ec2 Instance
+172.18.9.233 master-2   # change the IP of your Master-2 Ec2 Instance
+172.18.8.35  master-3   # change the IP of your Master-3 Ec2 Instance
+172.18.9.62  balancer   # change the IP of your balancer Ec2 machine
