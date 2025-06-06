@@ -3,3 +3,4 @@ To run the Kubernetes Cluster we should make sure that swap shlould be disabled 
 #!/bin/bash
 swapoff -a
 sed -i '/ swap / s/^/#/' /etc/fstab
+
