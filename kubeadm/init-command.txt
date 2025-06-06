@@ -1,1 +1,5 @@
+now run the below command on any Master Node Machine .
 
+#kubeadm init --control-plane-endpoint "balancer:6443" --upload-certs
+
+it will procide you 2 URL that we need to run the Master Node as well as Worker Node to join these into the cluster
