@@ -1,1 +1,2 @@
+#curl -o setup/05-flannel-cni.yaml https://raw.githubusercontent.com/coreos/flannel/master/Documentation/kube-flannel.yml
 
